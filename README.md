@@ -1,5 +1,5 @@
 # 📄 Andy Tran's GitHub Portfolio
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkwa2wwZ2JvYTZ3bThvYm5pZGZuZTFrbDRvcWIxaGlxamw1YXBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK914NO5d8ey9sSNAQ/giphy.webp" width="300" height="200" alt="Welcome">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkwa2wwZ2JvYTZ3bThvYm5pZGZuZTFrbDRvcWIxaGlxamw1YXBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK914NO5d8ey9sSNAQ/giphy.webp" width="150" height="100" alt="Welcome">
 
 ## 👋 Introduction
 
