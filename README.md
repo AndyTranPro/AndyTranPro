@@ -3,7 +3,7 @@
 
 ## 👋 Introduction
 
-Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated software engineer with over two years of experience. I have a strong background in both front-end and back-end technologies and a passion for creating efficient and scalable software solutions. This repository showcases some of the projects I have worked on, demonstrating my skills and expertise in software development.
+Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated software engineer with over two years of experience. I have a strong background in both front-end and back-end technologies and a passion for creating efficient and scalable software solutions.
 
 ## 🔗 Contact Information
 
