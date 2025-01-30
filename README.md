@@ -42,7 +42,7 @@ Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated softwar
 ## 📈 Projects
 
 ### Jung Talents Booking System
-- **Description:** Developed a robust booking system using ASP.NET Core Razor Pages and MVC, enhancing operational efficiency by 30%.
+- **Description:** Developed a robust E-Commerce platform using ASP.NET Core Razor Pages and MVC, enhancing operational efficiency by 30%.
 - **Technologies:** ASP.NET Core, C#, Docker, Microsoft Azure
 - **Key Contributions:**
   - Designed and deployed RESTful APIs.
