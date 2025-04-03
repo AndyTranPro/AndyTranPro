@@ -8,7 +8,7 @@ Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated softwar
 ## 🔗 Contact Information
 
 - **Email:** rooneytai5236@gmail.com
-- **LinkedIn:** [Tan Tai Tran](https://www.linkedin.com/in/tan-tai-tran-6626732a5/)
+- **LinkedIn:** [Tan Tai Tran](https://www.linkedin.com/in/tan-tai-tran/)
 - **GitHub:** [AndyTranPro](https://github.com/AndyTranPro)
 
 ## 🛠️ Skills and Technologies
@@ -42,10 +42,11 @@ Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated softwar
 ## 📈 Projects
 
 ### Jung Talents Booking System
-- **Description:** Developed a robust E-Commerce platform using ASP.NET Core Razor Pages and MVC, enhancing operational efficiency by 30%.
-- **Technologies:** ASP.NET Core, C#, Docker, Microsoft Azure
+- **Description:** Developed a robust E-Commerce platform using ASP.NET Core Razor Pages and MVC, enhancing operational efficiency by 30%. Participated in backend migration of [GreenBench](https://greenbench.com.au/).
+- **Technologies:** ASP.NET Core, C#, Docker, Microsoft Azure, Angular.js
 - **Key Contributions:**
   - Designed and deployed RESTful APIs.
+  - Experienced in working with GraphQL.
   - Overhauled authentication and authorization mechanisms using Auth0.
   - Initiated Test-Driven Development (TDD) practices, improving unit test coverage by 25%.
 <br>
@@ -66,7 +67,7 @@ Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated softwar
 
 **University of New South Wales (UNSW)**
 - **Degree:** Bachelor of Computer Science
-- **Years:** 2020-2023
+- **Years:** 2020-2024
 - **GPA/WAM:** 7.0/5.0
 
 ## 📈 Future Goals
