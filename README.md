@@ -41,7 +41,7 @@ Welcome to my GitHub! I am Andy Tran, an enthusiastic and self-motivated softwar
 
 ## 📈 Projects
 
-### Jung Talents Booking System
+### Jung Talents
 - **Description:** Developed a robust E-Commerce platform using ASP.NET Core Razor Pages and MVC, enhancing operational efficiency by 30%. Participated in backend migration of [GreenBench](https://greenbench.com.au/).
 - **Technologies:** ASP.NET Core, C#, Docker, Microsoft Azure, Angular.js
 - **Key Contributions:**
